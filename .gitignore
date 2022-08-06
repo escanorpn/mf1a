@@ -1,2 +1,11 @@
-*
+node_modules/
+nj/
+public/
+src/
+tst/
+.babelrc
+.package.json
+.gitignore
+.gitattributes
+config-overrides.js
 !/build/
