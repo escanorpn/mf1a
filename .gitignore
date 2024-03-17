@@ -8,4 +8,5 @@ tst/
 .gitignore
 .gitattributes
 config-overrides.js
-!/build/
+
+build/

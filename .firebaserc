@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "smspayments-b4934"
+  },
+  "targets": {
+    "smspayments-b4934": {
+      "hosting": {
+        "production": [
+          "vector"
+        ],
+        "vector": [
+          "build"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
